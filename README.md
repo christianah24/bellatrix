@@ -1,2 +1,2 @@
 # bellatrix
-i am christianah ad i am a CSC207 student
+i am christianah and i am a CSC207 student
